@@ -2,7 +2,7 @@ package plugins
 
 import (
 	"fmt"
-    "os"
+    	"os"
 
 	"github.com/osteele/gojekyll/tags"
 	"github.com/osteele/liquid"
