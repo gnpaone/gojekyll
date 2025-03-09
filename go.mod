@@ -1,4 +1,4 @@
-module github.com/osteele/gojekyll
+module github.com/gnpaone/gojekyll
 
 go 1.23
 
